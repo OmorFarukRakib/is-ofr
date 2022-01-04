@@ -13,16 +13,17 @@ npm install --save is-ofr
 ## Usage
 
 ```jsx
-import React, { Component } from 'react'
+import React from 'react'
 
-import MyComponent from 'is-ofr'
+import { ExampleComponent } from "is-ofr";
 import 'is-ofr/dist/index.css'
 
-class Example extends Component {
+const App = () => {
   render() {
-    return <MyComponent />
+    return <ExampleComponent text="ANY TEXT" />
   }
 }
+export default App;
 ```
 
 ## License
