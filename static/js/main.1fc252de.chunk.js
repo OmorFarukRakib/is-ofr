@@ -1,0 +1,2 @@
+(this["webpackJsonpis-ofr-example"]=this["webpackJsonpis-ofr-example"]||[]).push([[0],[,,function(e,t,n){e.exports=n(11)},function(e,t,n){},,,,,,,function(e,t,n){},function(e,t,n){"use strict";n.r(t);n(3);var r=n(0),a=n.n(r),o=n(1),c=n.n(o),i="_3ybTi",s=function(e){var t=e.text;return a.a.createElement("div",{className:i},"Example Component: ",t)},u=(n(10),function(){return a.a.createElement(s,{text:"ARE YOU OFR"})});c.a.render(a.a.createElement(u,null),document.getElementById("root"))}],[[2,1,2]]]);
+//# sourceMappingURL=main.1fc252de.chunk.js.map
